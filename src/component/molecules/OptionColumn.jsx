@@ -4,7 +4,7 @@ import { comma } from "../../utils/convert";
 import Counter from "../atoms/Counter";
 import OptionList from "../atoms/OptionList";
 import Button from "../atoms/Button";
-import { Link, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import Photo from "../atoms/Photo";
 
 
